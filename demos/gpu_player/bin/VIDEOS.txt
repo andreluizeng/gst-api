@@ -1,0 +1,8 @@
+The following videos are needed to run this demo properly:
+
+Up.mp4
+finalfantasy.avi
+uncharted.avi
+
+or another videos from your preference, just remember to change the filenames in code.
+
